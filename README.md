@@ -1,7 +1,9 @@
 # gimmeflag
 GimmeFlag iOS application for SPbCTF New Year event (25 Dec 2020).
 
-Video: https://youtu.be/E9Kgl65jkbY
+Video (in Russian): https://youtu.be/E9Kgl65jkbY
+Slides (in Russian): https://vk.com/doc-114366489_584699860?hash=6312ae4e6bd83180f4
+Write-up (in Russian): https://youtu.be/EUktL-ozbW0?t=75
 
 ## Tasks:
 
